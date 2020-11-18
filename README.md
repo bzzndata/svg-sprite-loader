@@ -1,6 +1,8 @@
 # SVG sprite loader
 [![NPM version][version-img]][versions-img] [![Build status][ci-img]][ci-url] [![Documentation score][docs-coverage-img]][docs-coverage-url] [![Dependencies status][deps-img]][deps-url] [![Dev dependencies status][dev-deps-img]][dev-deps-url] [![NPM downloads][downloads-img]][npm-url]
 
+Fork from [JetBrains/svg-sprite-loader](https://github.com/JetBrains/svg-sprite-loader) and support webpack v5.
+
 Webpack loader for creating SVG sprites.
 
 > :tada: 2.0 is out, please read the [migration guide & overview](2.0.md).
